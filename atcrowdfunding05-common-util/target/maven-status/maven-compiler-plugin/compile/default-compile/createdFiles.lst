@@ -1,0 +1,10 @@
+com\aliyun\api\gateway\demo\util\HttpUtils$1.class
+com\aliyun\api\gateway\demo\util\HttpUtils.class
+com\zwz\crowd\constant\CrowdConstant.class
+com\zwz\crowd\exception\LoginAcctAlreadyInUseException.class
+com\zwz\crowd\exception\LoginAcctAlreadyInUseForUpdateException.class
+com\zwz\crowd\exception\LoginFailedException.class
+com\zwz\crowd\util\ResultEntity.class
+com\zwz\crowd\exception\AccessForbiddenException.class
+com\zwz\crowd\constant\AccessPassResources.class
+com\zwz\crowd\util\CrowdUtil.class
